@@ -1,0 +1,19 @@
+.nav-link{
+	margin-left: 15px;
+	color:#963F92;
+	letter-spacing: 2px;
+	transition: 0.5s;
+	background-color: #00F9B8;
+	border-radius: 15px;
+}
+.navbar-brand{
+	color: #4488A8 ;
+	letter-spacing: 1px;
+	background-color: #4488A8 ;
+
+}
+h2{
+	color: #963F92;
+	letter-spacing: 1px;
+	font-family: raleway;
+}
